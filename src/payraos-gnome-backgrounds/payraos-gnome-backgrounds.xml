@@ -3,12 +3,203 @@
 <wallpapers>
 <wallpaper deleted="false">
 <name>Default Background</name>
-<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/01.jpg</filename>
-<filename-dark>/usr/share/backgrounds/payraos-gnome-backgrounds/01.jpg</filename-dark>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/default.png</filename>
+<filename-dark>/usr/share/backgrounds/payraos-gnome-backgrounds/default.png</filename-dark>
 <options>zoom</options>
 <shade_type>solid</shade_type>
 <pcolor>#3465a4</pcolor>
 <scolor>#000000</scolor>
 </wallpaper>
 </wallpapers>
-
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/01.jpeg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/02.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/03.jpeg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/04.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/05.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/07.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/08.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/09.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/10.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/11.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/12.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/13.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/14.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/15.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/16.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/17.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/18.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/19.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/20.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/21.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/22.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/23.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/24.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>PayraOS</name>
+<filename>/usr/share/backgrounds/payraos-gnome-backgrounds/25.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
