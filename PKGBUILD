@@ -8,7 +8,7 @@ arch=('any')
 url="https://github.com/payra-os/$pkgname"
 license=('GPLv3')
 makedepends=('git')
-source=("git+https://github.com/payra-os/payraos-gnome-backgrounds.git")
+source=("git+https://github.com/payra-os/$pkgname.git")
 sha256sums=('SKIP')
 
 pkgver() {
