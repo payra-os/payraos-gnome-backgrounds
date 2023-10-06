@@ -1,4 +1,4 @@
-# Maintainer: dr460nf1r3 <dr460nf1r3 at garudalinux dot org>
+# Maintainer: E5H4N <m.eshan@outlook.in>
 
 pkgname=payraos-gnome-backgrounds
 pkgver=1.0.0
