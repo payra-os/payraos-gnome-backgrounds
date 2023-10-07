@@ -1,7 +1,7 @@
 # Maintainer: E5H4N <m.eshan@outlook.in>
 
 pkgname=payraos-gnome-backgrounds
-pkgver=1.0.0
+pkgver=r17.234b62a
 pkgrel=1
 pkgdesc="Payra OS wallpaper collection"
 arch=('any')
