@@ -10,7 +10,6 @@
 <pcolor>#3465a4</pcolor>
 <scolor>#000000</scolor>
 </wallpaper>
-</wallpapers>
 <wallpaper deleted="false">
 <name>PayraOS</name>
 <filename>/usr/share/backgrounds/payraos-gnome-backgrounds/01.jpeg</filename>
@@ -203,3 +202,4 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
 </wallpaper>
+</wallpapers>
